@@ -12,8 +12,7 @@ After carrying out the analysis as mentioned above, the following observations w
 
 ![RandomOverSampler](https://github.com/akhue02/credit_risk_analysis/blob/main/naive_random_oversampling.png)
 
-* After carrying out the analysis using RandomOversampler algorithm, we got the balanced accuracy of 0.646. High Risk Precision and recall values are 0.01 and 0.74 and 
-  Low Risk precision and recall values are 1 and 0.55.  
+* After carrying out the analysis using RandomOversampler algorithm, we got the balanced accuracy of 0.646. High Risk Precision and recall values are 0.01 and 0.74 and Low Risk precision and recall values are 1 and 0.55.  
 
 
 #### SMOTE 
